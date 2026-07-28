@@ -4,7 +4,7 @@
   <img src="./.images/byte-teacher.png" alt="Byte Teacher" width="200" />
 </p>
 
-A FastAPI application that enables Slalom consultants to register their capabilities and manage consulting expertise across the organization.
+A FastAPI application that enables Slalom consultants to register their capabilities and manage consulting expertise across the organization
 
 ## Features
 
